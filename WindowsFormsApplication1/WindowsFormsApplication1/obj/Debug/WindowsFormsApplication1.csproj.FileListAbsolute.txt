@@ -1,0 +1,9 @@
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\Origin\Saves of games\GitHub\Task-4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
